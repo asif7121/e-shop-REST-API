@@ -1,0 +1,32 @@
+const constant = {
+    NAME_IS_REQUIERED: `Name is required`,
+    CANNOT_UPDATE:`Product Cannot Be Updated`,
+    PRODUCT_NOT_FOUND:`Product Not Found.`,
+    INVALID_CATEGORY: `Invalid Category`,
+    CANNOT_FOUND_PRODUCT:`Cannot Find Product`,
+    PRODUCT_ID_IS_REQUIRED:'Product Id is required',
+    NOT_FOUND:`Not Found.`,
+    PRODUCT_CANNOT_BE_ADDED:`Product Cannot Be Added.`,
+    INVALID_CATEGORY:`Invalid Category`,
+    INVALID_PRODUCT_ID:`Product Id Is Invalid`,
+    PRODUCT_DELETED_SUCCESSFULLY:`Product deleted successfullly.`,
+    CATEGORY_ADDED_SUCCESSFULLY:`Category added successfullly.`,
+    CATEGORY_ID_IS_REQUIRED:'Category Id is required',
+    BAD_REQUEST:'Bad Request',
+    CANNOT_FIND_CATEGORY:`Cannot Find Category`,
+    CATEGORY_SUCCESSFULLY_UPDATED:`Category Successfully Updated.`,
+    CATEGORY_DELETED_SUCCESSFULLY:`Category deleted successfullly.`,
+    NO_USER_AVAILABLE:`No User Is Avalable`,
+    NO_USER_AVAILABLE_WITH_THIS_ID:`User Id Not Found.`,
+    USER_NOT_REGISTERED:`User Registration Failed.`,
+    CREDENTIAL_MISMATCH:`Credentials Did Not Match`,
+    USER_IS_AUTHENTICATED:`User Is Authenticated.`,
+    USER_LOGGED_IN:`Logged in successfully.`,
+    USER_DELETED_SUCCESSFULLY:`User deleted successfullly.`,
+    ORDER_CANNOT_PLACED:`Order Cannot Placed.`,
+    ORDER_NOT_FOUND:`Order Is Not Found.`,
+    STATUS_SUCCESSFULLY_UPDATED:`Status Updated.`,
+    ORDER_DELETED_SUCCESSFULLY:`Order Deleted.`
+}
+
+export default constant
